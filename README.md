@@ -1,6 +1,7 @@
 HelloWorld Servlet example with corresponding Dockerfile
 
 Use Maven Build first to create war file in Target folder.
+Jag added commit
 
 mvn clean package
 
